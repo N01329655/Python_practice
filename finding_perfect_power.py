@@ -21,13 +21,6 @@ short description
 
 
 '''
-
-
-
-
-
-
-
 import math
 import time 
 def isPP(n):
